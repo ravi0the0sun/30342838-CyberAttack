@@ -104,3 +104,1032 @@ Machine: Gopis-iMac.local
 IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
 User:    gopishiwakoti 
 Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 4:15:54 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 5:44:44 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:00:06 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:29:08 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:29:53 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:31:00 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:31:28 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:31:43 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:32:01 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:32:20 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:32:56 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:33:11 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:33:26 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:34:42 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    4/10/2022 6:35:26 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 4:09:24 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:07:23 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:07:50 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:09:04 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:13:55 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:16:08 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:23:20 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:34:24 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:34:40 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:35:23 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:36:41 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:37:17 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:47:56 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:49:11 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:49:25 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:49:45 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:52:58 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:53:20 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:53:33 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:53:47 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:55:03 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:55:55 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:57:30 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:57:52 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:58:09 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:58:41 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:59:14 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 6:59:28 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:00:07 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:00:40 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:01:31 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:01:54 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:03:12 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:05:31 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:08:30 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:12:29 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:12:53 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:13:05 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:13:52 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:14:31 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:15:22 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:16:57 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:18:15 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:19:03 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:19:40 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:21:06 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:24:19 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:24:48 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:25:04 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:25:45 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:26:02 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:26:46 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:33:13 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:33:47 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:37:24 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:40:45 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:47:13 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:53:56 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:58:18 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:59:12 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 7:59:31 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:00:49 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:06:16 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:06:42 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:07:14 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:07:57 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:08:51 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:09:49 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:10:26 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:10:56 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:11:35 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:14:42 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:15:11 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:15:39 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:27:20 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:38:27 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:38:48 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:41:03 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:43:18 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:45:09 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:45:46 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:47:03 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 8:48:17 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:03:47 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:04:35 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:05:11 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:07:32 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:08:11 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:08:33 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:12:41 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:15:54 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:16:44 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:17:33 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:17:57 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:18:15 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:20:00 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:26:00 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:27:21 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:27:43 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:28:03 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:28:35 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:28:54 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:29:12 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:30:05 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:30:39 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:31:48 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:32:08 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:32:43 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:34:16 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:34:40 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:34:59 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:35:26 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:36:35 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:37:18 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:38:04 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:40:23 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:41:05 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:41:44 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:42:56 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:43:13 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:46:29 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:47:03 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:47:25 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:47:46 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:48:23 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:49:12 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:50:11 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:51:11 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:51:37 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:52:22 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:52:56 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
+
+Date:    5/10/2022 9:53:48 PM 
+OS:      Unix 21.6.0.0 
+Machine: Gopis-iMac.local 
+IP:      success,Australia,AU,VIC,Victoria,Melbourne,3000,-37.8159,144.9669,Australia/Melbourne,Myrepublic PTY LTD,Myrepublic PTY LTD,AS9310 MYREPUBLIC PTY LTD,158.140.193.203
+User:    gopishiwakoti 
+Folder:  /Users/gopishiwakoti/Downloads/Ravi assignment/30342838-CyberAttack 
